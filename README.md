@@ -4,7 +4,7 @@ This repository contains all the study and projects using this language that I d
 ## Explanation
 
 ### There is any book for free?
-Here there is not PDFs of the books. I encourage you to use all of those that I did, because they helped me on my journey, and that is it.
+Here there is not any book for free. I encourage you to use all of those that I did, because they helped me on my journey, and that is it.
 
 ### How can you navigate and understand
 My solutions were build in a .go file and stored in each chapter folder of each book folder: My sugestion is to use as a helper, once it contains the answers of the exercises, at the same time the practice of the knowledge that I did.
