@@ -14,14 +14,14 @@ At the time I learned the first concept I had already programmed many times, tha
 ## How do you run my solutions
 First of all, make sure that in your terminal you are in the right place. For example, if you want to run a script that is on book1, chapter1, then write on your Linux terminal: 
 
-$cd book1/chapter1$
+    cd book1/chapter1
 
 Once you are on the right path.
 
-$go run <main.go>$
+    go run <main.go>
 
 Or
 
-$go test <main.go>$
+    go test <main.go>
 
 Done. Now you can see the answers printed in your terminal.
